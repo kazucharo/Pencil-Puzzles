@@ -1,1 +1,3 @@
 # Pencil-Puzzles
+- ぬりかべ
+- スリザーリンク
